@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 16 Nov 2022 16:18:53 at https://www.ammaripa.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.ammaripa.com/ -O1 "C:\Users\ABO OMAR\Desktop\ipa3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:19:37	Error: 	"Not Found" (404) at link https://www.ammaripa.com/fonts/glyphicons-halflings-regular.eot (from https://www.ammaripa.com/css/bootstrap.css)
+16:19:37	Error: 	"Not Found" (404) at link https://www.ammaripa.com/fonts/glyphicons-halflings-regular.eot? (from https://www.ammaripa.com/css/bootstrap.css)
+16:19:37	Error: 	"Not Found" (404) at link https://www.ammaripa.com/fonts/glyphicons-halflings-regular.woff2 (from https://www.ammaripa.com/css/bootstrap.css)
+16:19:37	Error: 	"Not Found" (404) at link https://www.ammaripa.com/fonts/glyphicons-halflings-regular.woff (from https://www.ammaripa.com/css/bootstrap.css)
+16:19:37	Error: 	"Not Found" (404) at link https://www.ammaripa.com/fonts/glyphicons-halflings-regular.ttf (from https://www.ammaripa.com/css/bootstrap.css)
+16:19:37	Error: 	"Not Found" (404) at link https://www.ammaripa.com/fonts/glyphicons-halflings-regular.svg (from https://www.ammaripa.com/css/bootstrap.css)
+16:19:43	Error: 	"Not Found" (404) at link https://www.ammaripa.com/Error (from https://www.ammaripa.com/download?id=28)
+
+HTTrack Website Copier/3.49-2 mirror complete in 52 seconds : 187 links scanned, 179 files written (8699117 bytes overall) [8706849 bytes received at 167439 bytes/sec], 53592 bytes transferred using HTTP compression in 1 files, ratio 21%, 15.6 requests per connection
+(7 errors, 0 warnings, 0 messages)
